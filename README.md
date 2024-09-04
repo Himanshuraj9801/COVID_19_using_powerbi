@@ -1,6 +1,7 @@
 # COVID_19_using_powerbi
-COVID-19 Dashboard Analysis using Power BI Project Overview This project focuses on developing an interactive COVID-19 dashboard using Power BI to analyze global pandemic trends. 
- The dashboard allows users to explore key metrics, including the evolution of COVID-19 cases and deaths over time, with the ability to drill down by WHO region and country. The primary objective is to provide insights into how the pandemic has progressed and to identify significant trends, spikes, and declines in the data.
+COVID-19 Dashboard Analysis using Power BI Project 
+This project focuses on developing an interactive COVID-19 dashboard using Power BI to analyze global pandemic trends. 
+The dashboard allows users to explore key metrics, including the evolution of COVID-19 cases and deaths over time, with the ability to drill down by WHO region and country. The primary objective is to provide insights into how the pandemic has progressed and to identify significant trends, spikes, and declines in the data.
 
 Key Features
 Time Series Analysis: The dashboard tracks the progression of COVID-19 cases and deaths, offering visualizations that highlight weekly moving averages to smooth out short-term fluctuations. Users can observe how the situation has evolved across different regions and identify key patterns.
